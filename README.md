@@ -1,8 +1,8 @@
 # Aplikasi Tempat Wisata
 
-Developed by:
+Dibuat oleh:
 
-- Damar Satria Buana (3.34.21.0.08)
+- Wahyu Indra Permana (3.34.21.0.23)
 
 ## Slight Overview The App
 
