@@ -6,6 +6,6 @@ Developed by:
 
 ## Slight Overview The App
 
-<img src="https://user-images.githubusercontent.com/92832439/199500513-b2510749-a03f-4fcf-9cf4-525e014c2ecf.png" height="400">
-<img src="https://user-images.githubusercontent.com/92832439/199500528-248441ab-210d-4f4a-911f-8922f29881ae.png" height="400">
-<img src="https://user-images.githubusercontent.com/92832439/199500533-0851dde8-e9ae-46c5-ae8c-e0541f6aba8a.png" height="400">
+<img src="https://user-images.githubusercontent.com/117348907/209163471-0b1b69f7-cbae-42e6-a7fb-bd29d667a43d.png" height="400">
+<img src="https://user-images.githubusercontent.com/117348907/209163630-29b71c45-9f52-469c-86f1-c82494990f76.png" height="400">
+<img src="https://user-images.githubusercontent.com/117348907/209163842-9318bbb3-e66c-4ac3-aa5e-a9e03a90ce11.png" height="400">
